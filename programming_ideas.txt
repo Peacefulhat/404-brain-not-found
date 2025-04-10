@@ -2,6 +2,17 @@
 -> region based memory allocator for my 2d physic engine.(supports multithreading)
 -> color full video to ascii (supports multithreading).
 
+  resources: man 3 pthread_create
+             man 3 pthread_join
+             man 3 pthread_mutex_init
+             man 3 pthread_cond_wait
+
+  ffmpeg:(libavcodec) C API Documentation
+    https://ffmpeg.org/doxygen/trunk/
+    man ffmpeg
+    
+  Combine  docs with example. 
+    git clone https://github.com/FFmpeg/FFmpeg.git
 
 UPCOMMING PROGRAMMING IDEAS
 1). 2d physic engine in c (P2D) (from scratch,except gpu piplines).
