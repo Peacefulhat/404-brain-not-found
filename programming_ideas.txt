@@ -29,3 +29,4 @@ UPCOMMING PROGRAMMING IDEAS
 15). make a ui labrary in c with some backend, like sdl , raylib or opengl(most needed thing ).
 16). voxel engine in c.
 17). pipewire for wirting some sound related code and visuliazation.(supports multithreading)  
+18). breakout game in c. without any thing just window only (inspired by casey muratori handmade hero )
