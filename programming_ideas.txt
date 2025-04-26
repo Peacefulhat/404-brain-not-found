@@ -30,3 +30,4 @@ UPCOMMING PROGRAMMING IDEAS
 16). voxel engine in c.
 17). pipewire for wirting some sound related code and visuliazation.(supports multithreading)  
 18). breakout game in c. without any thing just window only (inspired by casey muratori handmade hero )
+19). ascii based Music Visualizer.
