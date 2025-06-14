@@ -31,3 +31,9 @@ UPCOMMING PROGRAMMING IDEAS
 17). pipewire for wirting some sound related code and visuliazation.(supports multithreading)  
 18). breakout game in c. without any thing just window only (inspired by casey muratori handmade hero )
 19). ascii based Music Visualizer.
+20). 16 bit nes emulator(or some thing close)
+21). complier for c (or my own language)
+22). Operating system emulator ( in side which you can write application )(its like uxn project)(virtual machine)
+23). game_of_life, with my own 2d library (with face 3d some like old doom)
+24). Ascii video genrator ( support multithreading )
+
